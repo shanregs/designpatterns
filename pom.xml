@@ -14,7 +14,7 @@
     <modules>
         <module>creational</module>
         <module>structural</module>
-        <module>behavioral</module>
+        <module>behavioural</module>
     </modules>
 
     <properties>

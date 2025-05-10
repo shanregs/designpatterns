@@ -1,0 +1,6 @@
+notifier:
+  base: SLACK
+  decorators:
+    - RETRY
+    - LOGGING
+    - TIMING
